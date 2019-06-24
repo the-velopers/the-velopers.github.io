@@ -8,7 +8,7 @@
 | 24/05 | Desenvolvendo sistemas: Nova (nem tanto) era | Laércio Wadie    | [Download](https://drive.google.com/open?id=1yhh81qeJC6Jyj-aNn5reHXEW-reHumyG) |
 | 07/06 | Functional Programming                       | Cristian Ribeiro | [Download](https://drive.google.com/open?id=1_nCLDdNDIeBCZ45VqBsP6Q83IvpKw6O2) |
 | 14/06 | SPA & PWA                                    | Fabio Soares     | [Parte 1](https://drive.google.com/open?id=1Vx9ygwwV3iVGtcX5xNA61hpPZ1X-kyIW)/[Parte 2](https://drive.google.com/open?id=1KUnOrjX9iCk-HRm-VqE9ese7fojpZZgY) |
-| 21/06 | Docker                                       | Ronaldo Passos   | - |
-|       | -                                            | Ravelle Oliviera | - |
-|       | -                                            | André Gomes      | - |
-|       | -                                            | Yuri Goytacaz    | - |
+| 21/06 | Docker                                       | Ronaldo Passos   | [Download](https://drive.google.com/file/d/1y864Wh--nL6oqZp99FMAsM1BI9YS0BFE/view?usp=sharing) |
+| 28/07 | TDD: Test Driven Development                 | Ravelle Oliviera | - |
+| 12/07 | -                                            | Yuri Goytacaz    | - |
+| 19/07 | -                                            | André Gomes      | - |
