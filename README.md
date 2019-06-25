@@ -12,3 +12,15 @@
 | 28/07 | TDD: Test Driven Development                 | Ravelle Oliviera | - |
 | 12/07 | -                                            | Yuri Goytacaz    | - |
 | 19/07 | -                                            | André Gomes      | - |
+
+## Podcasts
+
+| Nome                                                      | Assuntos                               |
+|-----------------------------------------------------------|----------------------------------------|
+| [Data Hackers](https://datahackers.com.br/podcast)        | Data Science e Machine Learning        |
+| [DEVNAESTRADA](https://devnaestrada.com.br/)              | Dia a dia do dev e entrevistas         |
+| [hipsters ponto tech](https://hipsters.tech/)             | Modinhas e Tecnologia                  |
+| [Lambda3](https://www.lambda3.com.br/tag/podcast/)        | Stack Microsoft, DevOps e Agilidade    |
+| [Like a boss](https://www.likeaboss.com.br/)              | Empreendedorismo e Startups            |
+| [Pizza de Dados](https://pizzadedados.com/)               | Data Science e Machine Learning        |
+| [PodProgramar](https://mundopodcast.com.br/podprogramar/) | Mulheres na tecnologia                 |
