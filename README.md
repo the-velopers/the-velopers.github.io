@@ -10,7 +10,7 @@
 | 14/06 | SPA & PWA                                    | Fabio Soares     | [Parte 1](https://drive.google.com/open?id=1Vx9ygwwV3iVGtcX5xNA61hpPZ1X-kyIW)/[Parte 2](https://drive.google.com/open?id=1KUnOrjX9iCk-HRm-VqE9ese7fojpZZgY) |
 | 21/06 | Docker                                       | Ronaldo Passos   | [Download](https://drive.google.com/file/d/1y864Wh--nL6oqZp99FMAsM1BI9YS0BFE/view?usp=sharing) |
 | 28/06 | TDD: Test Driven Development                 | Ravelle Oliveira | [Download](https://drive.google.com/file/d/1Uc25TMrrJQQFGOG9rznJOOcNUzeeW1wM/view?usp=sharing) |
-| 04/07 | -                                            | Yuri Goytacaz    | - |
+| 04/07 | UX                                           | Yuri Goytacaz    | - |
 | ?     | -                                            | André Gomes      | - |
 
 ## Podcasts
