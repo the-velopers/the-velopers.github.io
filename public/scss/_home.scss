@@ -1,0 +1,31 @@
+
+header{
+    text-align: center;
+    margin: 100px 0 50px 0 ;
+}
+
+.header-logo{
+    display: block;
+    font-size: 40px;
+    color: darkblue;
+
+    &:before{
+        content:'<';
+        color: lightblue;
+    }
+
+    &:after{
+        content:">";
+        color: lightblue;
+    }
+}
+
+.header-title{
+    display: block;
+    font-size: 30px;
+    padding:10px 0;
+}
+
+.header-break{
+    color: lightblue;
+}

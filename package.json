@@ -1,0 +1,28 @@
+{
+  "name": "thevelopers",
+  "version": "1.0.0",
+  "description": "Page for developers follow events, news, tecnology and post information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-velopers/the-velopers.github.io.git"
+  },
+  "keywords": [
+    "developer",
+    "news",
+    "events",
+    "technology"
+  ],
+  "author": "The Velopers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-velopers/the-velopers.github.io/issues"
+  },
+  "homepage": "https://github.com/the-velopers/the-velopers.github.io#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
