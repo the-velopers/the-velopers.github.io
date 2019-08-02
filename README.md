@@ -5,7 +5,7 @@
 | Data  | Tema                                       | Palestrante      | Apresentação                                                                   |
 |-------|--------------------------------------------|------------------|--------------------------------------------------------------------------------|
 | 26/07 | MongoDB                                    | Suilan Maia      | [Download](https://drive.google.com/open?id=14dXLoaFKy5_AEQaZj76LHuBGb4BY9CpQ) |
-| 02/08 | Design Patterns                            | Fabio Soares     | - |
+| 02/08 | Design Patterns                            | Fabio Soares     | [Download](https://drive.google.com/open?id=1Ne6PaAg_jqN_MIHRebv_UaPJJRTxfBvp) |
 | 09/08 | High Order Components                      | Ronaldo Passos   | - |
 | 16/08 | Git Flow                                   | André Gomes      | - |
 | 23/08 | Big Data                                   | Laércio Wadie    | - |
