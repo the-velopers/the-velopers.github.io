@@ -6,14 +6,15 @@
 |-------|--------------------------------------------|------------------|--------------------------------------------------------------------------------|
 | 26/07 | MongoDB                                    | Suilan Maia      | [Download](https://drive.google.com/open?id=14dXLoaFKy5_AEQaZj76LHuBGb4BY9CpQ) |
 | 02/08 | Design Patterns                            | Fabio Soares     | [Download](https://drive.google.com/open?id=1Ne6PaAg_jqN_MIHRebv_UaPJJRTxfBvp) |
-| 09/08 | High Order Components                      | Ronaldo Passos   | - |
-| 16/08 | Git Flow                                   | André Gomes      | - |
+| 09/08 | UX: Norman Door                            | Vital Lima       | Indisponível |
+| 16/08 | Git Flow - Painel                          | Yuri Goytacaz    | &check;      |
 | 23/08 | Big Data                                   | Laércio Wadie    | - |
 | 30/08 | Continuous Integration/Continuous Delivery | Yuri Goytacaz    | - |
 | 06/09 | NoSQL: Bancos de dados não relacionais     | Ravelle Oliveira | - |
 | 13/09 | TypeScript                                 | Cris Ribeiro     | - |
 | 20/09 | Agile                                      | Dellano Oliveira | - |
-| 27/09 | #2 Wrap Up!                                | -                | - |
+| 27/09 | High Order Components                      | Ronaldo Passos   | - |
+| 04/10 | #2 Wrap Up!                                | -                | - |
 
 # Outros Eventos
 
